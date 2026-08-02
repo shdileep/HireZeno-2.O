@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 NEXUS AI Enterprise
 
 <div align="center">
@@ -366,3 +367,6 @@ Enterprise Resume Intelligence Platform
 Made with ❤️ using Python, Streamlit and Artificial Intelligence.
 
 </div>
+=======
+# HireZeno-2.O
+>>>>>>> 9b878113856393c562e682fa626d93681ed47e73
