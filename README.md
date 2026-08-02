@@ -134,3 +134,93 @@ cd HireZeno-2.O
 pip install -r requirements.txt
 
 streamlit run app.py
+```
+
+---
+
+# 📦 Requirements
+
+```
+Python 3.10+
+
+Streamlit
+
+Scikit-Learn
+
+TensorFlow
+
+Pandas
+
+NumPy
+
+Plotly
+
+pdfplumber
+
+python-docx
+
+ReportLab
+```
+
+---
+
+# 🎯 Future Roadmap
+
+- LinkedIn Profile Analyzer
+- GitHub Portfolio Analyzer
+- Bulk Resume Screening
+- Recruiter Login
+- Cloud Database
+- AI Resume Builder
+- AI Resume Optimizer
+- AI Interview Assistant
+- Resume Ranking Engine
+- HR Analytics Dashboard
+
+---
+
+# 🤝 Contribution
+
+Contributions are welcome.
+
+1. Fork the repository
+
+2. Create a new branch
+
+3. Commit your changes
+
+4. Push the branch
+
+5. Open a Pull Request
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+# 👨‍💻 Author
+
+**NEXUS AI Team**
+
+AI Engineer | Facility Management Professional | Python Developer
+
+GitHub:
+https://github.com/NEXUS-AI
+
+---
+
+<div align="center">
+
+## ⭐ If you like this project, don't forget to Star the repository ⭐
+
+**NEXUS AI Enterprise**
+
+Enterprise Resume Intelligence Platform
+
+Made with ❤️ using Python, Streamlit and Artificial Intelligence.
+
+</div>
+
