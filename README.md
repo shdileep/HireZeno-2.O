@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 🚀 NEXUS AI Enterprise
+# 🚀 HireZeno 2.O
 
 <div align="center">
 
@@ -8,11 +7,11 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DL-orange?logo=tensorflow)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Version](https://img.shields.io/badge/Version-12.0-gold)
+![Version](https://img.shields.io/badge/Version-2.0-gold)
 
-### Enterprise AI Resume Intelligence Platform
+### AI Recruitment & Resume Intelligence Platform
 
-**AI-Powered Resume Analysis | ATS Optimization | Machine Learning | Deep Learning | Recruiter Intelligence**
+**Semantic Job Matching | ATS Optimization | AI Resume Analysis | Recruiter Intelligence**
 
 </div>
 
@@ -20,9 +19,9 @@
 
 # 📖 Overview
 
-NEXUS AI Enterprise is an advanced Resume Intelligence Platform that helps recruiters, HR professionals, and job seekers evaluate resumes using Artificial Intelligence.
+HireZeno 2.O is an AI-powered Recruitment & Resume Intelligence Platform that helps recruiters, HR professionals, and job seekers analyze resumes, optimize ATS scores, and match candidates with job descriptions using Artificial Intelligence.
 
-The platform combines ATS analysis, Natural Language Processing (NLP), Machine Learning, Deep Learning, and Hiring Intelligence into a unified recruitment solution.
+The platform combines ATS analysis, NLP, Machine Learning, Deep Learning, Semantic Search, and AI Hiring Intelligence into one modern recruitment solution.
 
 ---
 
@@ -32,6 +31,7 @@ The platform combines ATS analysis, Natural Language Processing (NLP), Machine L
 
 - PDF Resume Parsing
 - DOCX Resume Parsing
+- OCR Fallback
 - Contact Information Extraction
 - Skills Extraction
 - Experience Detection
@@ -41,7 +41,7 @@ The platform combines ATS analysis, Natural Language Processing (NLP), Machine L
 
 ---
 
-## 🎯 ATS Intelligence
+## 🎯 ATS Optimization
 
 - ATS Score
 - Missing Keywords
@@ -52,99 +52,59 @@ The platform combines ATS analysis, Natural Language Processing (NLP), Machine L
 
 ---
 
-## 🧠 NLP Intelligence
+## 🧠 AI Job Matching
 
+- Semantic Job Matching
 - Resume Similarity
-- Keyword Matching
-- Semantic Similarity
 - Skill Matching
+- Experience Matching
 - Role Matching
+- AI Candidate Ranking
 
 ---
 
 ## 🤖 Machine Learning
 
 - Candidate Hiring Prediction
-- Model Comparison
-- Multiple ML Algorithms
+- Resume Classification
 - Performance Evaluation
+- Multiple ML Algorithms
 
 ---
 
 ## 🧬 Deep Learning
 
-- Candidate Classification
-- AI Hiring Prediction
-- Deep Learning Score
+- AI Candidate Classification
+- Hiring Prediction
+- Resume Intelligence Score
 
 ---
 
-## 📊 Hiring Intelligence
+## 📊 Recruiter Intelligence
 
 - Unified Hiring Score
 - Candidate Grade
-- Hiring Recommendation
+- Recruiter Recommendations
 - AI Decision Support
 
 ---
 
-## 📑 Executive Reports
+## 📑 Reports
 
-- Enterprise PDF Reports
+- AI Evaluation Reports
+- ATS Reports
 - Resume Summary
-- AI Evaluation
-- Recruiter Recommendation
-- Professional Formatting
+- Hiring Recommendations
+- Professional PDF Export
 
 ---
 
 ## 👨‍💼 Recruiter Dashboard
 
-- Candidate Overview
-- Resume Analytics
-- AI Performance
-- Hiring Insights
-
----
-
-# 🏗 Project Structure
-
-```text
-Resume-Intelligence-AI/
-│
-├── app.py
-├── config.py
-├── requirements.txt
-│
-├── app_pages/
-│   ├── dashboard.py
-│   ├── resume_analyzer.py
-│   ├── ats_analysis.py
-│   ├── similarity.py
-│   ├── ml_prediction.py
-│   ├── dl_prediction.py
-│   ├── hiring_prediction.py
-│   ├── executive_report.py
-│   ├── analytics.py
-│   └── settings.py
-│
-├── core/
-│   ├── ai_engine.py
-│   ├── ats_engine.py
-│   ├── resume_parser.py
-│   ├── keyword_engine.py
-│   ├── hiring_score.py
-│   ├── similarity_engine.py
-│   ├── ml_engine.py
-│   ├── dl_engine.py
-│   ├── report_generator.py
-│   └── ...
-│
-├── reports/
-├── assets/
-├── screenshots/
-└── README.md
-```
+- Candidate Analytics
+- Resume Insights
+- Hiring Dashboard
+- AI Performance Metrics
 
 ---
 
@@ -154,219 +114,23 @@ Resume-Intelligence-AI/
 |-----------|------------|
 | Frontend | Streamlit |
 | Backend | Python |
-| Machine Learning | Scikit-Learn, XGBoost |
+| Machine Learning | Scikit-Learn |
 | Deep Learning | TensorFlow |
-| NLP | spaCy, NLTK, Sentence Transformers |
+| NLP | spaCy, Sentence Transformers |
 | Data Processing | Pandas, NumPy |
-| Visualization | Plotly, Matplotlib |
-| PDF | ReportLab |
-| Resume Parsing | PDFPlumber, python-docx |
-
----
-
-# 🧠 AI Workflow
-
-```text
-Resume Upload
-      │
-      ▼
-Resume Parser
-      │
-      ▼
-Keyword Engine
-      │
-      ▼
-ATS Engine
-      │
-      ▼
-Similarity Engine
-      │
-      ▼
-Machine Learning
-      │
-      ▼
-Deep Learning
-      │
-      ▼
-Hiring Score Engine
-      │
-      ▼
-Executive Report
-      │
-      ▼
-Recruiter Dashboard
-```
-
----
-
-# 📊 Enterprise Modules
-
-- Dashboard
-- Resume Analyzer
-- ATS Analysis
-- NLP Similarity
-- Machine Learning
-- Deep Learning
-- Hiring Prediction
-- Executive Report
-- Recruiter Analytics
-- AI Career Coach
-- Interview Generator
-- Salary Prediction
-- Cover Letter Generator
-- Email Generator
-
----
-
-# 📸 Screenshots
-
-Create a folder named **screenshots** and add images.
-
-```text
-screenshots/
-
-dashboard.png
-
-resume_analyzer.png
-
-ats_analysis.png
-
-ml_prediction.png
-
-executive_report.png
-```
-
-Example:
-
-```markdown
-## Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-## Resume Analyzer
-
-![Resume](screenshots/resume_analyzer.png)
-
-## ATS Analysis
-
-![ATS](screenshots/ats_analysis.png)
-```
+| Visualization | Plotly |
+| PDF Reports | ReportLab |
+| Resume Parsing | pdfplumber, python-docx |
 
 ---
 
 # 🚀 Installation
 
-Clone the repository
-
 ```bash
-git clone https://github.com/YOUR_USERNAME/Resume-Intelligence-AI.git
-```
+git clone https://github.com/shdileep/HireZeno-2.O.git
 
-Go to the project folder
+cd HireZeno-2.O
 
-```bash
-cd Resume-Intelligence-AI
-```
-
-Install dependencies
-
-```bash
 pip install -r requirements.txt
-```
 
-Run the application
-
-```bash
 streamlit run app.py
-```
-
----
-
-# 📦 Requirements
-
-```
-Python 3.10+
-
-Streamlit
-
-Scikit-Learn
-
-TensorFlow
-
-Pandas
-
-NumPy
-
-Plotly
-
-pdfplumber
-
-python-docx
-
-ReportLab
-```
-
----
-
-# 🎯 Future Roadmap
-
-- LinkedIn Profile Analyzer
-- GitHub Portfolio Analyzer
-- Bulk Resume Screening
-- Recruiter Login
-- Cloud Database
-- AI Resume Builder
-- AI Resume Optimizer
-- AI Interview Assistant
-- Resume Ranking Engine
-- HR Analytics Dashboard
-
----
-
-# 🤝 Contribution
-
-Contributions are welcome.
-
-1. Fork the repository
-
-2. Create a new branch
-
-3. Commit your changes
-
-4. Push the branch
-
-5. Open a Pull Request
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-# 👨‍💻 Author
-
-**NEXUS AI Team**
-
-AI Engineer | Facility Management Professional | Python Developer
-
-GitHub:
-https://github.com/NEXUS-AI
-
----
-
-<div align="center">
-
-## ⭐ If you like this project, don't forget to Star the repository ⭐
-
-**NEXUS AI Enterprise**
-
-Enterprise Resume Intelligence Platform
-
-Made with ❤️ using Python, Streamlit and Artificial Intelligence.
-
-</div>
-=======
-# HireZeno-2.O
->>>>>>> 9b878113856393c562e682fa626d93681ed47e73
